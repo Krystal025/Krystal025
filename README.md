@@ -1,4 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=F58282&height=300&section=header&text=Welcome%20to%20SuJeong's%20GitHub!👋&fontSize=50&fontAlignY=40&fontColor=ffffff)
+
 ## Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krystal025&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F56E6E&height=100&section=footer" />
+
+
 
 <!--
 **Krystal025/Krystal025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
