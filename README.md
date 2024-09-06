@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krystal025&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F56E6E&height=100&section=footer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=F56E6E&height=100&section=footer" /> -->
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krystal025&show_icons=true&theme=radical)-->
 
